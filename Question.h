@@ -15,7 +15,7 @@
 @property (nonatomic) NSString *wrongAnswer1;
 @property (nonatomic) NSString *wrongAnswer2;
 @property (nonatomic) NSString *wrongAnswer3;
-@property (nonatomic) BOOL *Gone;
+@property (nonatomic) BOOL *gone;
 
 
 @end
